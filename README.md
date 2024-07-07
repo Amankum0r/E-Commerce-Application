@@ -1,4 +1,4 @@
-# E-Commerce-Application
+
 # E-commerce Application
 
 This is a basic e-commerce application built with a React frontend and a Node.js backend. The application supports user authentication, product listing, and a shopping cart.
