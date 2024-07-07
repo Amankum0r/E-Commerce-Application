@@ -23,5 +23,5 @@ This is a basic e-commerce application built with a React frontend and a Node.js
    git clone https://github.com/Amankum0r/ecommerce-app.git
    cd ecommerce-app
 demo link 
-http://localhost:3000/
-http://localhost:3000/register
+"http://localhost:3000/"
+"http://localhost:3000/register"
